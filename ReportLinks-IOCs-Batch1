@@ -1,0 +1,139 @@
+Sample 1
+Intel creation time: 2025-04-23 06:04 (UTC+1)
+
+SHA256 Hashes:
+e4be2ae586aa74b5ff7bf0166ae2b1cdb4d4ac8b612157d675e305dcc42b8d06
+
+C2 from Malware Config Extraction:
+address,port,network_protocol,listen
+10[.]81[.]36[.]45,6606,tcp,false
+
+Source: VMRay ThreatFeed -- https://threatfeed.vmray.com
+Link to the sandbox report: https://www.vmray.com/analyses/e4be2ae586aa/report/overview.html
+
+---------------------------------------
+
+Sample 2
+Intel creation time: 2025-04-22 08:04 (UTC+1)
+
+SHA256 Hashes:
+da2a69f9e3658070a55ffd96f93f446a5eb9c0beaf536a776f8f48b734380851
+
+C2 from Malware Config Extraction:
+address,port,network_protocol,listen
+michiko[.]linkpc[.]net,3030,tcp,false
+
+Source: VMRay ThreatFeed -- https://threatfeed.vmray.com
+Link to the sandbox report: https://www.vmray.com/analyses/da2a69f9e365/report/overview.html
+
+---------------------------------------
+
+Sample 3
+Intel creation time: 2025-04-22 20:04 (UTC+1)
+
+SHA256 Hashes:
+6d23cdd6b13333aabc8313b01988b918fb69ee779e20952fa2a8e9f09c0b584a
+
+C2 from Malware Config Extraction:
+address,port,network_protocol,listen
+select-documentation[.]gl[.]at[.]ply.gg,42818,tcp,false
+
+Source: VMRay ThreatFeed -- https://threatfeed.vmray.com
+Link to the sandbox report: https://www.vmray.com/analyses/6d23cdd6b133/report/overview.html
+
+---------------------------------------
+
+Sample 4
+Intel creation time: 2025-04-22 20:04 (UTC+1)
+
+SHA256 Hashes:
+b59c882a77fa669dcbf0f8bad7b55c6861b4b99faa75e1aa3e9c5c0771270d61
+
+C2 from Malware Config Extraction:
+address,port,network_protocol,listen
+4Mekey1[.]mywire[.]org,8848,tcp,false
+
+Source: VMRay ThreatFeed -- https://threatfeed.vmray.com
+Link to the sandbox report: https://www.vmray.com/analyses/b59c882a77fa/report/overview.html
+
+---------------------------------------
+
+Sample 5
+Intel creation time: 2025-04-22 17:04 (UTC+1)
+
+SHA256 Hashes:
+0639e4103cc1c5e4e63c5e742be9c53f8b544deda3134489a12184bc20a903fe
+
+C2 from Malware Config Extraction:
+address,port,network_protocol,listen
+assaa[.]freeddns.org,3377,tcp,false
+
+Source: VMRay ThreatFeed -- https://threatfeed.vmray.com
+Link to the sandbox report: https://www.vmray.com/analyses/0639e4103cc1/report/overview.html
+
+---------------------------------------
+
+Sample 6
+Intel creation time: 2025-04-23 03:04 (UTC+1)
+
+SHA256 Hashes:
+995a8c7c21f86e8501bfe1604a02344e5d938c4df4358fba7a9d4078b9af799e
+
+C2 from Malware Config Extraction:
+https://pastebin[.]com/raw/DaixqzM7
+
+Source: VMRay ThreatFeed -- https://threatfeed.vmray.com
+Link to the sandbox report: https://www.vmray.com/analyses/995a8c7c21f8/report/overview.html
+
+---------------------------------------
+
+Sample 7
+Intel creation time: 2025-04-23 02:04 (UTC+1)
+
+SHA256 Hashes:
+8fe3636c931fed30d05207089885a2722dbfee555ee88bf88f531d3c3b5c98d9
+
+C2 from Malware Config Extraction:
+address,port,network_protocol,listen
+gotoaa[.]sytes[.]net,8808,tcp,false
+gotoaa[.]sytes[.]net,7707,tcp,false
+gotoaa[.]sytes[.]net,6606,tcp,false
+go[.]gets-it[.]net,8808,tcp,false
+go[.]gets-it[.]net,7707,tcp,false
+go[.]gets-it[.]net,6606,tcp,false
+             
+Source: VMRay ThreatFeed -- https://threatfeed.vmray.com
+Link to the sandbox report: https://www.vmray.com/analyses/8fe3636c931f/report/overview.html
+
+---------------------------------------
+
+Sample 8
+Intel creation time: 2025-04-22 23:04 (UTC+1)
+
+SHA256 Hashes:
+49e718675e880dc00de6fff1466604de8df962207861a54c83ff99a070512d31
+
+C2 from Malware Config Extraction:
+address,port,network_protocol,listen
+81[.]109[.]5[.]62,8848,tcp,false
+81[.]109[.]5[.]62,4449,tcp,false
+             
+Source: VMRay ThreatFeed -- https://threatfeed.vmray.com
+Link to the sandbox report: https://www.vmray.com/analyses/49e718675e88/report/overview.html
+
+---------------------------------------
+
+Sample 9
+Intel creation time: 2025-04-22 22:04 (UTC+1)
+
+SHA256 Hashes:
+bd5a811eb9b172ce13914b5e899100dd6650ffdcff4f9a3294f76d75c02d126b
+
+C2 from Malware Config Extraction:
+address,port,network_protocol,listen
+domain13[.]ddns[.]net,10000,tcp,false
+domain13[.]ddns[.]net,650,tcp,false
+             
+Source: VMRay ThreatFeed -- https://threatfeed.vmray.com
+Link to the sandbox report: https://www.vmray.com/analyses/bd5a811eb9b1/report/overview.html
+
